@@ -27,7 +27,7 @@ export default function Example() {
   };
 
   for (const key in products) {
-    total += parseFloat(products[key].price);
+    total += parseFloat(products[key].price.toFixed(2));
   }
 
   return (
