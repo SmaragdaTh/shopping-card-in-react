@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "hrowback Hip Bag",
+      "href": "#",
+      "color": "Salmon",
+      "price": "32.00",
+      "quantity": 1,
+      "imageSrc": "https://tailwindcss.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-01.jpg",
+      "imageAlt": "Salmon orange fabric pouch with match zipper, gray zipper pull, and adjustable hip belt."
+    },
+    {
+      "id": 2,
+      "name": "Mens Cotton Jacket",
+      "href": "#",
+      "color": "Blue",
+      "price": "90.00",
+      "quantity": 1,
+      "imageSrc": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "imageAlt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch."
+    },
+    {
+      "id": 3,
+      "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "href": "#",
+      "color": "Blue",
+      "price": "55.00",
+      "quantity": 1,
+      "imageSrc": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "imageAlt": "Front of satchel with blue canvas body, black straps and handle, drawstring top, and front zipper pouch."
+    }
+  ]
+}
+  
+
+
