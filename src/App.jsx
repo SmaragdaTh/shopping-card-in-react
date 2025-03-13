@@ -12,10 +12,12 @@ export default function Example() {
   let total = 0;
 
   useEffect(function runOnlyOnceFetchProducts() {
-    fetch("http://localhost:3001/products")
+    // fetch("http://localhost:3001/products")
+    fetch("https://fakestoreapi.com/products")
       .then((res) => res.json())
       .then((data) => {
-        setProducts(data);
+        const arrayData = data.slice(0, 4);
+        setProducts(arrayData);
       });
   }, []);
 
